@@ -4,3 +4,6 @@
 [submodule "libraries/CmdArduino"]
 	path = libraries/CmdArduino
 	url = https://github.com/fakufaku/CmdArduino.git
+[submodule "hardware/mighty-1284p"]
+	path = hardware/mighty-1284p
+	url = https://github.com/fakufaku/mighty-1284p.git
