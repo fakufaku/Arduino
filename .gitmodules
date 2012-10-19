@@ -1,3 +1,6 @@
 [submodule "libraries/chibiArduino"]
 	path = libraries/chibiArduino
 	url = https://github.com/fakufaku/chibiArduino.git
+[submodule "libraries/CmdArduino"]
+	path = libraries/CmdArduino
+	url = https://github.com/fakufaku/CmdArduino.git
