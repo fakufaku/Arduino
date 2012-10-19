@@ -1,3 +1,17 @@
+# Arduino Safecast
+
+This is a modified version of the Arduino environment. The main differences with the normal Arduino IDE are:
+
+* Patched SD library to be compatible with any board that has a hardware variant defined,
+
+* Includes [chibiArduino](https://github.com/fakufaku/chibiArduino) to use the 802.15.4 radio on the freakduino and bGeigie,
+
+* Includes [CmdArduino](https://github.com/fakufaku/CmdArduino) to send commands to an Arduino device over serial,
+
+* Includes [mighty-1284p](https://github.com/fakufaku/mighty-1284p) hardware variants that make the Arduino compatible with Atmel ATmega1284p microcontroller.
+
+# Arduino
+
 Arduino is an open-source physical computing platform based on a simple i/o
 board and a development environment that implements the Processing/Wiring
 language. Arduino can be used to develop stand-alone interactive objects or
